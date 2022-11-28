@@ -4,3 +4,7 @@
 * Flutter 文档国内镜像 https://flutter.cn/docs
 * Flutter 官方文档 http://flutter.io/
 * Flutter Widget of the week https://www.bilibili.com/video/BV1iG411g7eG
+
+## Dart
+* Dart 官网 https://dart.dev/
+* Effective Dart https://dart.dev/guides/language/effective-dart
